@@ -1,6 +1,7 @@
 # 📊 Warehouse KPI Dashboard (Power BI)
 
-![Dashboard Overview](Screenshot2025-08-22194927.png)
+![Dashboard Overview](images/Screenshot_2025-08-22_194927.png)
+
 
 An **interactive Power BI dashboard** built on top of an Excel dataset that tracks **warehouse performance KPIs** across depots, SKUs, and incident modules.
 This project demonstrates skills in **data modeling, DAX, visualization, and business insights** using a realistic operational dataset.
