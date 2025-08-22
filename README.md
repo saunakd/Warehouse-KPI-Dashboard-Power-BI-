@@ -1,6 +1,6 @@
 # 📊 Warehouse KPI Dashboard (Power BI)
 
-![Dashboard Overview](Screenshot_2025-08-22_194927.png)
+![Dashboard Overview](Screenshot%202025-08-22%20194927.png)
 
 
 
